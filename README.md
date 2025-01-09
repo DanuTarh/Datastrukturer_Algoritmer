@@ -1,2 +1,2 @@
 # Datastrukturer och algoritmer
-väl lektion via branchmeny
+välj lektion via branchmeny
